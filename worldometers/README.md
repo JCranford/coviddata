@@ -9,3 +9,9 @@ The names of the spreadsheets are:
 - CovidData.ods    (for *world* data)
 - USData.ods      (for *US* data)
 
+---
+
+### 2020=05-19
+
+I will only store and keep the world data (CovidData.ods) at this time.
+
